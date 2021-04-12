@@ -1,0 +1,17 @@
+{
+    "name": "didor/composer",
+    "description": "projet quete composer",
+    "authors": [
+        {
+            "name": "Didor",
+            "email": "didor.dada@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+        "App\\": "src/"
+    }
+        }
+    }
